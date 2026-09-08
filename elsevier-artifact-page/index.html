@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122484393-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-122484393-1');
+  </script>
+</head>
+
+<style>
+  .hover {
+    display: absolute;
+    opacity: 0;
+  }
+
+  body:hover .hover {
+    visibility: visible;
+    animation: fadeOut;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+    /* don't forget to set a duration! */
+  }
+
+  @keyframes fadeOut {
+    0% {
+      opacity: 0
+    }
+
+    1% {
+      opacity: 1
+    }
+
+    75% {
+      opacity: 1
+    }
+
+    to {
+      opacity: 0
+    }
+  }
+
+  .animate__fadeOut {
+    -webkit-animation-name: fadeOut;
+    animation-name: fadeOut
+  }
+
+  .animate__animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: var(--animate-duration);
+    animation-duration: var(--animate-duration);
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both
+  }
+</style>
+
+<body id="background-fix" style="background-color:#fff;margin:0px;">
+  <center>
+    <a href="//plu.mx/plum/a/?doi=10.1016/S0140-6736(20)30185-9" target="_blank">
+      <img class="hover" style="margin:0px auto;width:1440px;height:auto;position:absolute;" src="view.png" /><img
+        style="margin:0px auto;width:1440px;height:auto;" src="plu.mx-a-doi10.1016-S0140-6736(20)30185-9.jpg" />
+    </a>
+  </center>
+</body>
+
+</html>
