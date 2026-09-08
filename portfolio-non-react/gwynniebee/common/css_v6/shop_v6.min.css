@@ -2,7 +2,8 @@
   width: device-width;
 }
 .font-proxima-bold {
-  font-family: "ProximaNovaBold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaNovaBold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .gray {
   color: #8e8e8e;
@@ -785,7 +786,7 @@ a.grey:visited {
   .product-large-image
   .product-badges-container
   .product-first-fit {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -967px -142px;
   height: 40px;
@@ -795,7 +796,7 @@ a.grey:visited {
   .product-large-image
   .product-badges-container
   .product-exclusive {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -588px -124px;
   height: 40px;
@@ -805,7 +806,7 @@ a.grey:visited {
   .product-large-image
   .product-badges-container
   .product-first-review {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -882px -227px;
   height: 40px;
@@ -815,14 +816,14 @@ a.grey:visited {
   .product-large-image
   .product-badges-container
   .product-size-down {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -692px -124px;
   height: 40px;
   width: 100px;
 }
 .productPageV6 .product-large-image .product-badges-container .product-size-up {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -797px -124px;
   height: 40px;
@@ -830,12 +831,13 @@ a.grey:visited {
 }
 @font-face {
   font-family: ProximaRegular;
-  src: url("//pruzaniec.com/cdn/fonts/proximanovaregular.eot?14421400825907581912");
-  src: url("//pruzaniec.com/cdn/fonts/proximanovaregular.eot?%23iefix&14421400825907581912")
+  src: url("/cdn/fonts/proximanovaregular.eot?14421400825907581912");
+  src:
+    url("/cdn/fonts/proximanovaregular.eot?%23iefix&14421400825907581912")
       format("embedded-opentype"),
-    url("//pruzaniec.com/cdn/fonts/proximanovaregular.woff?14421400825907581912")
+    url("/cdn/fonts/proximanovaregular.woff?14421400825907581912")
       format("woff"),
-    url("//pruzaniec.com/cdn/fonts/proximanovaregular.ttf?14421400825907581912")
+    url("/cdn/fonts/proximanovaregular.ttf?14421400825907581912")
       format("truetype");
 }
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
@@ -845,12 +847,12 @@ a.grey:visited {
 }
 @font-face {
   font-family: ProximaLight;
-  src: url("//pruzaniec.com/cdn/fonts/proximanovalight.eot?14421400825907581912");
-  src: url("//pruzaniec.com/cdn/fonts/proximanovalight.eot?%23iefix&14421400825907581912")
+  src: url("/cdn/fonts/proximanovalight.eot?14421400825907581912");
+  src:
+    url("/cdn/fonts/proximanovalight.eot?%23iefix&14421400825907581912")
       format("embedded-opentype"),
-    url("//pruzaniec.com/cdn/fonts/proximanovalight.woff?14421400825907581912")
-      format("woff"),
-    url("//pruzaniec.com/cdn/fonts/proximanovalight.ttf?14421400825907581912")
+    url("/cdn/fonts/proximanovalight.woff?14421400825907581912") format("woff"),
+    url("/cdn/fonts/proximanovalight.ttf?14421400825907581912")
       format("truetype");
 }
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
@@ -860,12 +862,12 @@ a.grey:visited {
 }
 @font-face {
   font-family: ProximaAltRegular;
-  src: url("//pruzaniec.com/cdn/fonts/proximanovaaltreg.eot?14421400825907581912");
-  src: url("//pruzaniec.com/cdn/fonts/proximanovaaltreg.eot?%23iefix&14421400825907581912")
+  src: url("/cdn/fonts/proximanovaaltreg.eot?14421400825907581912");
+  src:
+    url("/cdn/fonts/proximanovaaltreg.eot?%23iefix&14421400825907581912")
       format("embedded-opentype"),
-    url("//pruzaniec.com/cdn/fonts/proximanovaaltreg.woff?14421400825907581912")
-      format("woff"),
-    url("//pruzaniec.com/cdn/fonts/proximanovaaltreg.ttf?14421400825907581912")
+    url("/cdn/fonts/proximanovaaltreg.woff?14421400825907581912") format("woff"),
+    url("/cdn/fonts/proximanovaaltreg.ttf?14421400825907581912")
       format("truetype");
 }
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
@@ -875,12 +877,12 @@ a.grey:visited {
 }
 @font-face {
   font-family: ProximaSemibold;
-  src: url("//pruzaniec.com/cdn/fonts/proximanovasbold.eot?14421400825907581912");
-  src: url("//pruzaniec.com/cdn/fonts/proximanovasbold.eot?%23iefix&14421400825907581912")
+  src: url("/cdn/fonts/proximanovasbold.eot?14421400825907581912");
+  src:
+    url("/cdn/fonts/proximanovasbold.eot?%23iefix&14421400825907581912")
       format("embedded-opentype"),
-    url("//pruzaniec.com/cdn/fonts/proximanovasbold.woff?14421400825907581912")
-      format("woff"),
-    url("//pruzaniec.com/cdn/fonts/proximanovasbold.ttf?14421400825907581912")
+    url("/cdn/fonts/proximanovasbold.woff?14421400825907581912") format("woff"),
+    url("/cdn/fonts/proximanovasbold.ttf?14421400825907581912")
       format("truetype");
 }
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
@@ -890,12 +892,12 @@ a.grey:visited {
 }
 @font-face {
   font-family: ProximaBold;
-  src: url("//pruzaniec.com/cdn/fonts/proximanovabold.eot?14421400825907581912");
-  src: url("//pruzaniec.com/cdn/fonts/proximanovabold.eot?%23iefix&14421400825907581912")
+  src: url("/cdn/fonts/proximanovabold.eot?14421400825907581912");
+  src:
+    url("/cdn/fonts/proximanovabold.eot?%23iefix&14421400825907581912")
       format("embedded-opentype"),
-    url("//pruzaniec.com/cdn/fonts/proximanovabold.woff?14421400825907581912")
-      format("woff"),
-    url("//pruzaniec.com/cdn/fonts/proximanovabold.ttf?14421400825907581912")
+    url("/cdn/fonts/proximanovabold.woff?14421400825907581912") format("woff"),
+    url("/cdn/fonts/proximanovabold.ttf?14421400825907581912")
       format("truetype");
 }
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
@@ -905,32 +907,32 @@ a.grey:visited {
 }
 @font-face {
   font-family: "foundation-icons";
-  src: url("//pruzaniec.com/cdn/fonts/foundationicons.eot?14421400825907581912");
-  src: url("//pruzaniec.com/cdn/fonts/foundationicons.eot?%23iefix&14421400825907581912")
+  src: url("/cdn/fonts/foundationicons.eot?14421400825907581912");
+  src:
+    url("/cdn/fonts/foundationicons.eot?%23iefix&14421400825907581912")
       format("embedded-opentype"),
-    url("//pruzaniec.com/cdn/fonts/foundationicons.woff?14421400825907581912")
-      format("woff"),
-    url("//pruzaniec.com/cdn/fonts/foundationicons.ttf?14421400825907581912")
+    url("/cdn/fonts/foundationicons.woff?14421400825907581912") format("woff"),
+    url("/cdn/fonts/foundationicons.ttf?14421400825907581912")
       format("truetype"),
-    url("//pruzaniec.com/cdn/fonts/foundationicons.svg%23fontcustom?14421400825907581912")
+    url("/cdn/fonts/foundationicons.svg%23fontcustom?14421400825907581912")
       format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "DidotItalic";
-  src: url("//pruzaniec.com/cdn/fonts/didotitalic.eot?14421400825907581912");
-  src: url("//pruzaniec.com/cdn/fonts/didotitalic.eot?%23iefix&14421400825907581912")
+  src: url("/cdn/fonts/didotitalic.eot?14421400825907581912");
+  src:
+    url("/cdn/fonts/didotitalic.eot?%23iefix&14421400825907581912")
       format("embedded-opentype"),
-    url("//pruzaniec.com/cdn/fonts/didotitalic.woff?14421400825907581912")
-      format("woff"),
-    url("//pruzaniec.com/cdn/fonts/didotitalic.ttf?14421400825907581912")
-      format("truetype");
+    url("/cdn/fonts/didotitalic.woff?14421400825907581912") format("woff"),
+    url("/cdn/fonts/didotitalic.ttf?14421400825907581912") format("truetype");
 }
 @font-face {
   font-family: "Zahrah-SemiboldItalic";
   src: url("https://cdn.shopify.com/s/files/1/0110/6032/files/33FC4F_2_0.eot");
-  src: url("https://cdn.shopify.com/s/files/1/0110/6032/files/33FC4F_2_0.eot?#iefix")
+  src:
+    url("https://cdn.shopify.com/s/files/1/0110/6032/files/33FC4F_2_0.eot?#iefix")
       format("embedded-opentype"),
     url("https://cdn.shopify.com/s/files/1/0110/6032/files/33FC4F_2_0.woff2")
       format("woff2"),
@@ -942,7 +944,8 @@ a.grey:visited {
 @font-face {
   font-family: "Zahrah-Semibold";
   src: url("https://cdn.shopify.com/s/files/1/0110/6032/files/33397B_0_0.eot");
-  src: url("https://cdn.shopify.com/s/files/1/0110/6032/files/33397B_0_0.eot?#iefix")
+  src:
+    url("https://cdn.shopify.com/s/files/1/0110/6032/files/33397B_0_0.eot?#iefix")
       format("embedded-opentype"),
     url("https://cdn.shopify.com/s/files/1/0110/6032/files/33397B_0_0.woff2")
       format("woff2"),
@@ -952,7 +955,8 @@ a.grey:visited {
       format("truetype");
 }
 .zahrah-semibolditalic {
-  font-family: "Zahrah-SemiboldItalic", "Times New Roman", Times, serif !important;
+  font-family:
+    "Zahrah-SemiboldItalic", "Times New Roman", Times, serif !important;
 }
 .zahrah-semibold {
   font-family: "Zahrah-Semibold", "Times New Roman", Times, serif !important;
@@ -960,7 +964,8 @@ a.grey:visited {
 @font-face {
   font-family: "Zahrah-Regular";
   src: url("https://cdn.shopify.com/s/files/1/0110/6032/files/33FC4F_9_0.eot");
-  src: url("https://cdn.shopify.com/s/files/1/0110/6032/files/33FC4F_9_0.eot?#iefix")
+  src:
+    url("https://cdn.shopify.com/s/files/1/0110/6032/files/33FC4F_9_0.eot?#iefix")
       format("embedded-opentype"),
     url("https://cdn.shopify.com/s/files/1/0110/6032/files/33FC4F_9_0.woff2")
       format("woff2"),
@@ -1033,7 +1038,8 @@ a.grey:visited {
 .pps-new-skin .pps-version2 .sub-title,
 .subscribe_new.subscription_Vnew .checkbox span,
 .proxima-light {
-  font-family: "ProximaLight", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaLight", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 ul.menu-content li,
 ul.menu-content li a,
@@ -1148,11 +1154,12 @@ footer
 .pps-new-skin .pps-version3 .sub-title,
 .pps-new-skin .pps-version4 .sub-title,
 .proxima-regular {
-  font-family: "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 .proxima-alt-regular {
-  font-family: "ProximaAltRegular", "Helvetica Neue", Helvetica, Arial,
-    sans-serif !important;
+  font-family:
+    "ProximaAltRegular", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 b,
 sup.garment-count,
@@ -1245,7 +1252,8 @@ footer .subscription-benefits-new .benefits .refer-link-footer,
 .pricing-table.gb-boxes li .promo,
 .segment-collection .image-holder .image-divider,
 .proxima-semibold {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 strong,
 em,
@@ -1260,13 +1268,15 @@ em,
 .pps-new-skin .pps-version2 .title,
 .proxima-bold,
 .mobile-header-bar a {
-  font-family: "ProximaBold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaBold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 html {
   font-size: 100%;
 }
 body {
-  font-family: "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   color: #000;
   font-size: 0.875rem;
   -webkit-font-smoothing: auto;
@@ -2561,7 +2571,8 @@ ul.menu-content li.royalty-notification.redemption {
   color: #000;
   font-size: 0.75rem;
   line-height: 0.75rem;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 @media only screen and (min-width: 320px) and (max-width: 767px) {
   .redemption .gb-rewards {
@@ -2619,7 +2630,8 @@ ul.menu-content li.royalty-notification.redemption {
 .redemption .point-value {
   margin: 0 8px 0 5px;
   color: #8e8e8e;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
 }
 .redemption .point-value.active {
@@ -2648,7 +2660,8 @@ ul.menu-content li.royalty-notification.redemption {
   font-family: "ProximaLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .redemption .next-reward span {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .redemption .reward-link {
   margin-top: 24px;
@@ -2659,7 +2672,8 @@ ul.menu-content li.royalty-notification.redemption {
   text-decoration: underline;
   text-transform: lowercase;
   font-size: 0.875rem;
-  font-family: "ProximaLight", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaLight", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   padding: 0;
 }
 .redemption .reward-link .earn-more::first-letter {
@@ -2741,8 +2755,14 @@ header.wos-header .menu-icon {
   height: 32px;
 }
 header.wos-header .menu-icon:after {
-  -webkit-box-shadow: 0 5px 0 #000, 0 13px 0 #000, 0 21px 0 #000;
-  box-shadow: 0 5px 0 #000, 0 13px 0 #000, 0 21px 0 #000;
+  -webkit-box-shadow:
+    0 5px 0 #000,
+    0 13px 0 #000,
+    0 21px 0 #000;
+  box-shadow:
+    0 5px 0 #000,
+    0 13px 0 #000,
+    0 21px 0 #000;
 }
 header.wos-header .menu-icon:hover:after {
   background: none;
@@ -2917,8 +2937,12 @@ nav.mobile-menu li .submenu li {
 .menu-icon:hover:after,
 .menu-icon:after {
   background: #000;
-  box-shadow: 0 8px 0 #000, 0 16px 0 #000;
-  -webkit-box-shadow: 0 8px 0 #000, 0 16px 0 #000;
+  box-shadow:
+    0 8px 0 #000,
+    0 16px 0 #000;
+  -webkit-box-shadow:
+    0 8px 0 #000,
+    0 16px 0 #000;
 }
 .off-canvas {
   height: 100%;
@@ -2992,7 +3016,7 @@ footer .brand-div {
 footer .brand-div .brand-div-logo {
   width: 890px;
   height: 48px;
-  background: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912")
+  background: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912")
     no-repeat;
   background-position: 32px -155px;
   background-size: 1000px;
@@ -3144,7 +3168,8 @@ svg.icon-dropdown-ios {
 }
 .suggested-size {
   font-size: 0.625rem;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .button,
 button {
@@ -3373,8 +3398,7 @@ button.disabled-state:focus {
 }
 .fb_login:after {
   content: "";
-  background: url("//pruzaniec.com/cdn/fonts/f.svg?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/f.svg?14421400825907581912") no-repeat;
   height: 27px;
   width: 10px;
   top: 10px;
@@ -3396,8 +3420,7 @@ button.disabled-state:focus {
 }
 .google_login:after {
   content: "";
-  background: url("//pruzaniec.com/cdn/fonts/google.svg?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/google.svg?14421400825907581912") no-repeat;
   height: 27px;
   width: 22px;
   top: 10px;
@@ -4236,11 +4259,11 @@ textarea {
 .spc-cc-icons,
 .spc-paypal-icon,
 .braintree-icon {
-  background-image: url("//pruzaniec.com/cdn/fonts/subscription-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/subscription-sprite.png?14421400825907581912");
 }
 .cc-images,
 .credit-card-img {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -865px -66px;
   height: 25px;
@@ -4252,7 +4275,7 @@ header.wos-header nav .dropdown.menu > li.is-dropdown-submenu-parent > a:after,
   > ul.dropdown.menu
   > li.is-dropdown-submenu-parent
   > a:after {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -1072px -36px;
   height: auto;
@@ -4262,7 +4285,7 @@ header.wos-header nav .dropdown.menu > li.is-dropdown-submenu-parent > a:after,
   .product-large-image
   .product-badges-container
   .product-exclusive {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -588px -124px;
   height: 40px;
@@ -4272,7 +4295,7 @@ header.wos-header nav .dropdown.menu > li.is-dropdown-submenu-parent > a:after,
   .product-large-image
   .product-badges-container
   .product-first-review {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -882px -227px;
   height: 40px;
@@ -4282,14 +4305,14 @@ header.wos-header nav .dropdown.menu > li.is-dropdown-submenu-parent > a:after,
   .product-large-image
   .product-badges-container
   .product-size-down {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -692px -124px;
   height: 40px;
   width: 100px;
 }
 .productPageV6 .product-large-image .product-badges-container .product-size-up {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -797px -124px;
   height: 40px;
@@ -4299,7 +4322,7 @@ header.wos-header nav .dropdown.menu > li.is-dropdown-submenu-parent > a:after,
   .product-large-image
   .product-badges-container
   .product-first-fit {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -967px -142px;
   height: 40px;
@@ -4342,7 +4365,9 @@ header.wos-header nav .dropdown.menu > li.is-dropdown-submenu-parent > a:after,
   height: 10px;
   width: 10px;
   background-color: rgba(255, 255, 255, 0.98);
-  box-shadow: 0 0 0 1px #8e8e8e, 0 2px 7px 1px #e6e6e6;
+  box-shadow:
+    0 0 0 1px #8e8e8e,
+    0 2px 7px 1px #e6e6e6;
 }
 .gb-flex {
   display: -webkit-flex;
@@ -4617,7 +4642,8 @@ ul.circle {
 .gb-search-error {
   margin-top: 0.5em;
   font-size: 1.1em;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   color: #606060;
 }
@@ -7789,7 +7815,8 @@ ul.circle {
   .plan-selected-right
   .rental-price-v2 {
   font-size: 13px;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .discountedCustomer.trial
   .payment_v6
@@ -7799,7 +7826,8 @@ ul.circle {
   .rental-price-v2
   span {
   font-size: 13px;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .discountedCustomer.trial
   .payment_v6
@@ -7867,7 +7895,8 @@ footer .payment_v6 .account_info .refer-link-footer {
 .payment_v6 .account_info input[type="number"] {
   font-size: 0.88em;
   color: #000;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: none repeat scroll 0 0 #fff !important;
   border: 1px solid #8e8e8e;
   box-shadow: 0 1px 1px #fff inset;
@@ -7911,7 +7940,8 @@ footer .payment_v6 .account_info .refer-link-footer {
 }
 .payment_v6 .account_info li.sub-form-select select {
   background: #fff;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   border: 1px solid #8e8e8e !important;
   box-shadow: 0 1px 1px #eeeeee inset;
@@ -7948,7 +7978,8 @@ footer .payment_v6 .account_info .refer-link-footer {
   padding-top: 0;
 }
 .payment_v6 .payment_info .cc-form-promo {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 11.5px;
   margin-bottom: 0.5em;
   text-transform: uppercase;
@@ -7964,7 +7995,8 @@ footer .payment_v6 .account_info .refer-link-footer {
   font-size: 1em;
   color: #000;
   text-transform: uppercase;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .payment_v6 .payment_info .card-expiry input[type="text"] {
   width: 100%;
@@ -7986,7 +8018,8 @@ footer .payment_v6 .account_info .refer-link-footer {
 }
 .payment_v6 .click-plan-v2 {
   color: #000;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1em;
 }
 .payment_v6 .subscription-plan-description-v2 {
@@ -7996,7 +8029,8 @@ footer .payment_v6 .account_info .refer-link-footer {
 }
 .payment_v6 .subscription-plan-description-v2 .static {
   color: #f7941d;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.2em;
   text-transform: uppercase;
 }
@@ -8005,7 +8039,8 @@ footer .payment_v6 .account_info .refer-link-footer {
   .promotionalOuter
   .promotionalMsg {
   color: #f7941d;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.2em;
 }
 .payment_v6 .subscription-plan-description-v2 .plan-selected-wrap {
@@ -8027,7 +8062,8 @@ footer .payment_v6 .account_info .refer-link-footer {
   display: block;
   text-transform: uppercase;
   color: #000;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 30px;
 }
 .payment_v6
@@ -8110,7 +8146,8 @@ footer
   .refer-link-footer {
   text-transform: uppercase;
   color: #000;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.2em;
   padding-bottom: 0.4em;
 }
@@ -8143,13 +8180,15 @@ footer
   .chosen-plan-wrap
   .selected-plan-v2 {
   font-size: 12.5px;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
 }
 .payment_v6 .taxes-form-page-v2 .total-with-taxes-table h2 {
   text-transform: uppercase;
   padding-bottom: 0;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
 .payment_v6 .taxes-form-page-v2 .total-with-taxes-table .subscription-bill-v2 {
@@ -8213,7 +8252,8 @@ footer
   margin: 0;
   color: #000;
   text-transform: uppercase;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12.5px;
   text-align: left;
 }
@@ -8425,7 +8465,8 @@ footer .payment_v6.subscription_Vnew .account_info .refer-link-footer {
   #taxes-form-page
   .additional-billing-note
   .disclaimerPromotionalElements.small-font {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .payment_v6.subscription_Vnew .payment_info label {
   font-family: "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -8450,7 +8491,8 @@ footer .payment_v6.subscription_Vnew .account_info .refer-link-footer {
   border-top: 1px solid #b1b1b1;
 }
 .payment_v6.subscription_Vnew .account_info .subs-flow-subheading {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 0.857;
   color: #8e8e8e;
   padding-bottom: 1.175rem;
@@ -8482,7 +8524,8 @@ footer .payment_v6.subscription_Vnew .account_info .refer-link-footer {
   margin-top: 5px;
 }
 .payment_v6.subscription_Vnew .add-suggest .address-wrapper-row code {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #000;
   font-size: 1rem;
 }
@@ -8648,7 +8691,8 @@ footer .payment_v6.subscription_Vnew .account_info .refer-link-footer {
 }
 .subscribe-new-v3 .pricing-wrap {
   text-transform: uppercase;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-bottom: 50px;
   max-width: 988px;
   margin: 0 auto;
@@ -8667,8 +8711,7 @@ footer .payment_v6.subscription_Vnew .account_info .refer-link-footer {
   .pricing-wrap
   .description-plan-v3.plan-v5
   .big-garment-img.from-css-background {
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   width: 126px;
   height: 61px;
   background-position: -355px -7px;
@@ -8706,8 +8749,7 @@ footer .payment_v6.subscription_Vnew .account_info .refer-link-footer {
   .garments.from-css-background {
   right: -40%;
   position: absolute;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   height: 61px;
   background-position: -355px -7px;
 }
@@ -8767,7 +8809,8 @@ footer .payment_v6.subscription_Vnew .account_info .refer-link-footer {
 }
 .subscribe-new-v3 .pricing-wrap .description-plan-v3 .box-plan .upper-plan h2 {
   padding-bottom: 0.1em;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #000;
 }
 .subscribe-new-v3 .pricing-wrap .description-plan-v3 .box-plan .upper-plan h3,
@@ -8785,12 +8828,14 @@ footer
   .box-plan
   .upper-plan
   .refer-link-footer {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #000;
 }
 .subscribe-new-v3 .pricing-wrap .description-plan-v3 .box-plan .lower-plan {
   color: #000;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 0.9em;
 }
 .subscribe-new-v3
@@ -9078,7 +9123,8 @@ footer
   vertical-align: 2px;
 }
 .disclaimer.disclaimer-v6 {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .subscription-benefits-new {
   margin-top: 2em;
@@ -9094,8 +9140,7 @@ footer
   height: 67px;
   float: right;
   margin-right: 0.625rem;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
 }
 .subscription-benefits-new .benefits .img-column > div.coin-circle {
   background-position: -143px -3px;
@@ -9136,13 +9181,14 @@ footer
   line-height: 1.429em;
   text-transform: uppercase;
   padding: 0;
-  font-family: "ProximaAltRegular", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  font-family:
+    "ProximaAltRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .subscription-benefits-new .benefits blockquote cite {
   font-size: 0.8em;
   color: #000;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.785em;
   font-style: normal;
 }
@@ -9159,14 +9205,15 @@ footer
 footer .subscription-benefits-new .benefits .refer-link-footer {
   color: #000;
   text-transform: uppercase;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1em;
   line-height: 1.6666em;
 }
 .subscription-benefits-new .benefits p {
   line-height: 1.46667em;
-  font-family: "ProximaAltRegular", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  font-family:
+    "ProximaAltRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1em;
 }
 .subscription-benefits-new .benefits.member-benefits-new {
@@ -9219,8 +9266,7 @@ footer .subscription-benefits-new .benefits .refer-link-footer {
   .description-plan-v3
   .big-box-plan
   .big-garment-img {
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   background-position: -292px -4px;
   width: 60px;
   height: 152px;
@@ -9325,7 +9371,8 @@ footer .subscription-benefits-new .benefits .refer-link-footer {
   text-align: center;
   margin: auto;
   font-size: 15px;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #fff;
   text-transform: uppercase;
 }
@@ -9355,7 +9402,8 @@ footer .subscription-benefits-new .benefits .refer-link-footer {
   display: inline-block;
 }
 .payment_v6 .account_info .phone-field-wrapper {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .payment_v6 .account_info .phone-field-wrapper .column {
   padding: 0 0.375rem;
@@ -9410,8 +9458,7 @@ footer .subscription-benefits-new .benefits .refer-link-footer {
   display: inline-block;
   width: 164px;
   height: 45px;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   background-position: -356px -111px;
 }
 .godaddy-seal {
@@ -9420,8 +9467,7 @@ footer .subscription-benefits-new .benefits .refer-link-footer {
   width: 134px;
   height: 34px;
   margin-right: 17px;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   background-position: -355px -74px;
 }
 .pps-new-skin .disclaimer {
@@ -9469,16 +9515,16 @@ footer .subscription-benefits-new .benefits .refer-link-footer {
   margin: 0 auto;
 }
 .pps-new-skin .img-itembox-1 .icon-garment {
-  background: url("//pruzaniec.com/cdn/fonts/DressIcon_1up.png?14421400825907581912")
-    center no-repeat;
+  background: url("/cdn/fonts/DressIcon_1up.png?14421400825907581912") center
+    no-repeat;
 }
 .pps-new-skin .img-itembox-2 .icon-garment {
-  background: url("//pruzaniec.com/cdn/fonts/DressIcon_2up.png?14421400825907581912")
-    center no-repeat;
+  background: url("/cdn/fonts/DressIcon_2up.png?14421400825907581912") center
+    no-repeat;
 }
 .pps-new-skin .img-itembox-3 span {
-  background: url("//pruzaniec.com/cdn/fonts/DressIcon_3up.png?14421400825907581912")
-    center no-repeat;
+  background: url("/cdn/fonts/DressIcon_3up.png?14421400825907581912") center
+    no-repeat;
   width: 97px;
   display: block;
   height: 47px;
@@ -9681,7 +9727,8 @@ footer
   .big-box-plan.selected
   .recommended {
   background-color: #000;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .pps-new-skin
   .subscribe-new-v3
@@ -9890,7 +9937,8 @@ footer
   color: #8e8e8e;
   text-transform: uppercase;
   font-size: 11px;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-top: 30px;
 }
 .pps-new-skin .subscribe-new-v3 .item-plan-svg svg {
@@ -9920,7 +9968,7 @@ footer
   margin: 2.5rem auto;
 }
 .member-benefits-image {
-  background-image: url("//pruzaniec.com/cdn/fonts/member-benefits-new-desktop.jpg?14421400825907581912");
+  background-image: url("/cdn/fonts/member-benefits-new-desktop.jpg?14421400825907581912");
   background-size: cover;
   background-position: center center;
   padding-bottom: 137.87878788%;
@@ -9938,7 +9986,8 @@ footer
 .member-details-text-container h3,
 .member-details-text-container footer .refer-link-footer,
 footer .member-details-text-container .refer-link-footer {
-  font-family: "ProximaNovaBold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaNovaBold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #000;
 }
 .member-details-text-container h2 {
@@ -9953,8 +10002,8 @@ footer .member-details-text-container .refer-link-footer {
   margin-bottom: 1rem;
 }
 .member-details-text-container p {
-  font-family: "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  font-family:
+    "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding-left: 25px;
   line-height: 140%;
 }
@@ -9965,7 +10014,7 @@ footer .member-details-text-container .refer-link-footer {
 }
 @media (max-width: 767px) {
   .member-benefits-image {
-    background-image: url("//pruzaniec.com/cdn/fonts/member-benefits-new-mobile.jpg?14421400825907581912");
+    background-image: url("/cdn/fonts/member-benefits-new-mobile.jpg?14421400825907581912");
     padding-bottom: 54.6875%;
   }
   .pps-new-skin .img-itembox-1,
@@ -11454,7 +11503,8 @@ footer
   font-size: 17px;
   text-transform: none;
   padding-top: 15px;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0.8px;
   color: #000;
 }
@@ -11522,8 +11572,8 @@ footer
 .pps-new-skin .pps-version2 .img-itembox-2 span.icon-garment,
 .pps-new-skin .pps-version2 .img-itembox-3 span.icon-garment {
   margin: 0px auto;
-  background: url("//pruzaniec.com/cdn/fonts/DressIcon_3up.png?14421400825907581912")
-    center no-repeat;
+  background: url("/cdn/fonts/DressIcon_3up.png?14421400825907581912") center
+    no-repeat;
   display: block;
   height: 33px;
 }
@@ -11679,8 +11729,8 @@ footer
   .pps-new-skin .pps-version2.pps-version3 .plan-boxes .gb-boxes li .promo {
     padding-top: 0;
     font-size: 1.125rem;
-    font-family: "ProximaRegular", "Helvetica Neue", Helvetica, Arial,
-      sans-serif;
+    font-family:
+      "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
   .pps-new-skin .pps-version2.pps-version3 .plan-boxes .gb-boxes li .price {
     padding: 4px 0;
@@ -12152,7 +12202,8 @@ footer
   .total-with-taxes-table
   h2 {
   margin-bottom: 0.2rem;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .payment_v6.subscription_Vnew
   .account_info.subscription-flow-V2.taxes-form-page-v2
@@ -12167,7 +12218,8 @@ footer
   .total-with-taxes-table
   .chosen-plan-wrap
   .selected-plan-v2 {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 .payment_v6.subscription_Vnew
   .account_info.subscription-flow-V2.taxes-form-page-v2
@@ -12181,7 +12233,8 @@ footer
   .promotion-message {
   color: #000 !important;
   font-size: 14px !important;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 @media screen and (min-width: 320px) and (max-width: 667px) {
   .payment_v6.subscription_Vnew .account_info.subscription-flow-V2 {
@@ -12312,7 +12365,8 @@ footer
 }
 .gb-tinder-style .teaser-title {
   font-size: 26px;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-bottom: 15px;
 }
 .gb-tinder-style #phone {
@@ -12904,8 +12958,8 @@ span#bt-pp-name {
 .login-error-msg-div {
   color: #c32627;
   font-size: 12.5px;
-  font-family: "ProximaNovaAltRegular", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  font-family:
+    "ProximaNovaAltRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: lowercase;
   visibility: visible;
 }
@@ -12914,7 +12968,7 @@ span#bt-pp-name {
 }
 .cc-images,
 .credit-card-img {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -865px -66px;
   height: 25px;
@@ -12932,7 +12986,7 @@ span#bt-pp-name {
   display: none;
 }
 .cvv-info {
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -1058px -71px;
   height: 18px;
@@ -12949,7 +13003,8 @@ span#bt-pp-name {
   padding: 15px 22px 15px 30px;
   background: rgba(0, 0, 0, 0.8);
   z-index: 14001;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   position: fixed;
 }
 .subscribe-nag.nag-opening,
@@ -13082,7 +13137,8 @@ span#bt-pp-name {
   font-size: 38px;
   padding-bottom: 2px;
   color: #fff;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .subscribe-nag .nag-left h3,
 .subscribe-nag .nag-left footer .refer-link-footer,
@@ -13093,7 +13149,8 @@ footer .common-nag .nag-left .refer-link-footer {
   font-size: 16px;
   color: #fff;
   text-transform: uppercase;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .subscribe-nag .nag-left ul,
 .common-nag .nag-left ul {
@@ -13359,16 +13416,14 @@ footer .common-nag .nag-left .refer-link-footer {
   height: 34px;
   margin-right: 8px;
   margin-left: 8px;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   background-position: -355px -74px;
 }
 .brain-tree-logo .braintree-seal {
   display: inline-block;
   width: 164px;
   height: 45px;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   background-position: -356px -111px;
 }
 .heading p {
@@ -13623,8 +13678,7 @@ footer .common-nag .nag-left .refer-link-footer {
   border-bottom: 1px solid #000;
   position: relative;
   margin: 0 auto;
-  background: url("//pruzaniec.com/cdn/fonts/Thankyou-bg.jpg?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/Thankyou-bg.jpg?14421400825907581912") no-repeat;
   background-size: cover;
   padding-bottom: 17rem;
   padding-top: 1rem;
@@ -13660,7 +13714,7 @@ footer .common-nag .nag-left .refer-link-footer {
 }
 @media screen and (max-width: 39.9375em) {
   .thankyouPage .thankyou--bg {
-    background: url("//pruzaniec.com/cdn/fonts/thankyoubg-mobile.jpg?14421400825907581912")
+    background: url("/cdn/fonts/thankyoubg-mobile.jpg?14421400825907581912")
       no-repeat;
     background-size: cover;
     padding-bottom: 7rem;
@@ -14091,15 +14145,14 @@ footer .common-nag .nag-left .refer-link-footer {
   height: 34px;
   margin-right: 8px;
   margin-left: 8px;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   background-position: -355px -74px;
 }
 .brain-tree-logo .braintree-seal {
   display: inline-block;
   width: 164px;
   height: 39px;
-  background: url("//pruzaniec.com/cdn/fonts/braintree-badge-light.png?14421400825907581912")
+  background: url("/cdn/fonts/braintree-badge-light.png?14421400825907581912")
     no-repeat;
   background-size: 100%;
 }
@@ -14456,8 +14509,7 @@ span.error {
   border-bottom: 1px solid #000;
   position: relative;
   margin: 0 auto;
-  background: url("//pruzaniec.com/cdn/fonts/Thankyou-bg.jpg?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/Thankyou-bg.jpg?14421400825907581912") no-repeat;
   background-size: cover;
   padding-bottom: 17rem;
   padding-top: 1rem;
@@ -14493,7 +14545,7 @@ span.error {
 }
 @media screen and (max-width: 39.9375em) {
   .thankyouPage .thankyou--bg {
-    background: url("//pruzaniec.com/cdn/fonts/thankyoubg-mobile.jpg?14421400825907581912")
+    background: url("/cdn/fonts/thankyoubg-mobile.jpg?14421400825907581912")
       no-repeat;
     background-size: cover;
     padding-bottom: 7rem;
@@ -14809,16 +14861,13 @@ span.error {
   display: inline-block;
 }
 .productPageV6 .share .product-fb-icon {
-  background: url("//pruzaniec.com/cdn/fonts/fbShare.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/fbShare.png?14421400825907581912") no-repeat;
 }
 .productPageV6 .share .product-pinterest-icon {
-  background: url("//pruzaniec.com/cdn/fonts/pinShare.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pinShare.png?14421400825907581912") no-repeat;
 }
 .productPageV6 .share .product-google-icon {
-  background: url("//pruzaniec.com/cdn/fonts/googleShare.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/googleShare.png?14421400825907581912") no-repeat;
 }
 .productPageV6 .moreFrom h4,
 .productPageV6 .moreFrom h5 {
@@ -14879,40 +14928,31 @@ span.error {
   background-size: contain !important;
 }
 .normal-rewards_5 {
-  background: url("//pruzaniec.com/cdn/fonts/normal_5.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/normal_5.png?14421400825907581912") no-repeat;
 }
 .normal-rewards_5.selected {
-  background: url("//pruzaniec.com/cdn/fonts/selected_5.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/selected_5.png?14421400825907581912") no-repeat;
 }
 .normal-rewards_5.inactive {
-  background: url("//pruzaniec.com/cdn/fonts/inactive_5.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/inactive_5.png?14421400825907581912") no-repeat;
 }
 .normal-rewards_10 {
-  background: url("//pruzaniec.com/cdn/fonts/normal_10.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/normal_10.png?14421400825907581912") no-repeat;
 }
 .normal-rewards_10.selected {
-  background: url("//pruzaniec.com/cdn/fonts/selected_10.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/selected_10.png?14421400825907581912") no-repeat;
 }
 .normal-rewards_10.inactive {
-  background: url("//pruzaniec.com/cdn/fonts/inactive_10.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/inactive_10.png?14421400825907581912") no-repeat;
 }
 .normal-rewards_15 {
-  background: url("//pruzaniec.com/cdn/fonts/normal_15.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/normal_15.png?14421400825907581912") no-repeat;
 }
 .normal-rewards_15.selected {
-  background: url("//pruzaniec.com/cdn/fonts/selected_15.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/selected_15.png?14421400825907581912") no-repeat;
 }
 .normal-rewards_15.inactive {
-  background: url("//pruzaniec.com/cdn/fonts/inactive_15.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/inactive_15.png?14421400825907581912") no-repeat;
 }
 .redeem-points {
   border-bottom: 1px solid #e6e6e6;
@@ -15004,7 +15044,7 @@ span.error {
   width: 90px;
 }
 .pfh-buy-item-details .product-review-rating .review-hearts-overlay-color {
-  background: url("//pruzaniec.com/cdn/fonts/GB-pluck-review-star-output-overlay-4.png?14421400825907581912")
+  background: url("/cdn/fonts/GB-pluck-review-star-output-overlay-4.png?14421400825907581912")
     no-repeat;
 }
 .pfh-buy-item-details .product-review-rating.pink .review-hearts-output-color {
@@ -15282,22 +15322,22 @@ ul.size-filter-recommendation
 }
 .like-product-container .next-button {
   right: 0;
-  background: url("//pruzaniec.com/cdn/fonts/right-arrow-carousel.svg?14421400825907581912")
+  background: url("/cdn/fonts/right-arrow-carousel.svg?14421400825907581912")
     no-repeat;
 }
 .like-product-container .previous-button {
   left: 0;
-  background: url("//pruzaniec.com/cdn/fonts/left-arrow-carousel.svg?14421400825907581912")
+  background: url("/cdn/fonts/left-arrow-carousel.svg?14421400825907581912")
     no-repeat;
 }
 .like-product-container .next-button-new {
   right: 0;
-  background: url("//pruzaniec.com/cdn/fonts/right-arrow-carousel-new.svg?14421400825907581912")
+  background: url("/cdn/fonts/right-arrow-carousel-new.svg?14421400825907581912")
     no-repeat;
 }
 .like-product-container .previous-button-new {
   left: 0;
-  background: url("//pruzaniec.com/cdn/fonts/left-arrow-carousel-new.svg?14421400825907581912")
+  background: url("/cdn/fonts/left-arrow-carousel-new.svg?14421400825907581912")
     no-repeat;
 }
 .write-review-attribute label {
@@ -15326,7 +15366,7 @@ sup {
 .write-review-rating-actions .review-create-review-star {
   width: 19px;
   margin-right: 4px;
-  background-image: url("//pruzaniec.com/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
+  background-image: url("/cdn/fonts/gwynniebee-sprite.png?14421400825907581912");
   background-repeat: no-repeat;
   background-position: -992px -100px;
   height: 17px;
@@ -15354,7 +15394,7 @@ sup {
   padding: 0;
   display: block;
   color: transparent;
-  background: url("//pruzaniec.com/cdn/fonts/upload_image.png?14421400825907581912");
+  background: url("/cdn/fonts/upload_image.png?14421400825907581912");
   cursor: pointer;
   float: left;
   box-shadow: none;
@@ -15369,7 +15409,7 @@ sup {
   border: 0;
 }
 .review-photo-add-button-div .img-upload-button .image-upload.uploading {
-  background: url("//pruzaniec.com/cdn/fonts/after-upload_image.png?14421400825907581912");
+  background: url("/cdn/fonts/after-upload_image.png?14421400825907581912");
   position: relative;
   background-size: 103%;
   border: 1px solid #8e8e8e;
@@ -15393,7 +15433,8 @@ sup {
 .review-photo-add-button-div .image-box {
   display: table;
   color: #8e8e8e;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .review-photo-add-button-div .image-box span {
   font-family: "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -16090,7 +16131,8 @@ div.catalystDfp {
   -webkit-justify-content: center;
 }
 .popup-ttb-show .redeem-reward-point .small-box .point-box .off {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1rem;
 }
 .popup-ttb-show .redeem-reward-point .small-box sup {
@@ -17044,8 +17086,7 @@ footer .subscribe_new.subscription_Vnew .account_info .refer-link-footer {
   .pricing-wrap
   .description-plan-v3.plan-v5
   .big-garment-img.from-css-background {
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   width: 126px;
   height: 61px;
   background-position: -355px -7px;
@@ -17083,8 +17124,7 @@ footer .subscribe_new.subscription_Vnew .account_info .refer-link-footer {
   .garments.from-css-background {
   right: -40%;
   position: absolute;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   height: 61px;
   background-position: -355px -7px;
 }
@@ -17465,8 +17505,7 @@ footer
   height: 67px;
   float: right;
   margin-right: 0.625rem;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
 }
 .subscription-benefits-new .benefits .img-column > div.coin-circle {
   background-position: -143px -3px;
@@ -17584,8 +17623,7 @@ footer .subscription-benefits-new .benefits .refer-link-footer {
   .description-plan-v3
   .big-box-plan
   .big-garment-img {
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   background-position: -292px -4px;
   width: 60px;
   height: 152px;
@@ -17771,8 +17809,7 @@ footer .subscription-benefits-new .benefits .refer-link-footer {
   display: inline-block;
   width: 164px;
   height: 45px;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   background-position: -356px -111px;
 }
 .godaddy-seal {
@@ -17781,8 +17818,7 @@ footer .subscription-benefits-new .benefits .refer-link-footer {
   width: 134px;
   height: 34px;
   margin-right: 17px;
-  background: url("//pruzaniec.com/cdn/fonts/pps-sprite.png?14421400825907581912")
-    no-repeat;
+  background: url("/cdn/fonts/pps-sprite.png?14421400825907581912") no-repeat;
   background-position: -355px -74px;
 }
 .pps-new-skin .disclaimer {
@@ -17828,16 +17864,16 @@ footer .subscription-benefits-new .benefits .refer-link-footer {
   margin: 0 auto;
 }
 .pps-new-skin .img-itembox-1 .icon-garment {
-  background: url("//pruzaniec.com/cdn/fonts/DressIcon_1up.png?14421400825907581912")
-    center no-repeat;
+  background: url("/cdn/fonts/DressIcon_1up.png?14421400825907581912") center
+    no-repeat;
 }
 .pps-new-skin .img-itembox-2 .icon-garment {
-  background: url("//pruzaniec.com/cdn/fonts/DressIcon_2up.png?14421400825907581912")
-    center no-repeat;
+  background: url("/cdn/fonts/DressIcon_2up.png?14421400825907581912") center
+    no-repeat;
 }
 .pps-new-skin .img-itembox-3 span {
-  background: url("//pruzaniec.com/cdn/fonts/DressIcon_3up.png?14421400825907581912")
-    center no-repeat;
+  background: url("/cdn/fonts/DressIcon_3up.png?14421400825907581912") center
+    no-repeat;
   width: 97px;
   display: block;
   height: 47px;
@@ -18262,7 +18298,7 @@ footer
   margin: 2.5rem auto;
 }
 .member-benefits-image {
-  background-image: url("//pruzaniec.com/cdn/fonts/member-benefits-new-desktop.jpg?14421400825907581912");
+  background-image: url("/cdn/fonts/member-benefits-new-desktop.jpg?14421400825907581912");
   background-size: cover;
   background-position: center center;
   padding-bottom: 137.87878788%;
@@ -18280,7 +18316,8 @@ footer
 .member-details-text-container h3,
 .member-details-text-container footer .refer-link-footer,
 footer .member-details-text-container .refer-link-footer {
-  font-family: "ProximaNovaBold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaNovaBold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #000;
 }
 .member-details-text-container h2 {
@@ -18295,8 +18332,8 @@ footer .member-details-text-container .refer-link-footer {
   margin-bottom: 1rem;
 }
 .member-details-text-container p {
-  font-family: "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  font-family:
+    "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding-left: 25px;
   line-height: 140%;
 }
@@ -18307,7 +18344,7 @@ footer .member-details-text-container .refer-link-footer {
 }
 @media (max-width: 767px) {
   .member-benefits-image {
-    background-image: url("//pruzaniec.com/cdn/fonts/member-benefits-new-mobile.jpg?14421400825907581912");
+    background-image: url("/cdn/fonts/member-benefits-new-mobile.jpg?14421400825907581912");
     padding-bottom: 54.6875%;
   }
   .pps-new-skin .img-itembox-1,
@@ -19844,8 +19881,8 @@ footer
 .pps-new-skin .pps-version2 .img-itembox-2 span.icon-garment,
 .pps-new-skin .pps-version2 .img-itembox-3 span.icon-garment {
   margin: 0px auto;
-  background: url("//pruzaniec.com/cdn/fonts/DressIcon_3up.png?14421400825907581912")
-    center no-repeat;
+  background: url("/cdn/fonts/DressIcon_3up.png?14421400825907581912") center
+    no-repeat;
   display: block;
   height: 33px;
 }
@@ -19993,8 +20030,8 @@ footer
   .pps-new-skin .pps-version2.pps-version3 .plan-boxes .gb-boxes li .promo {
     padding-top: 0;
     font-size: 1.125rem;
-    font-family: "ProximaRegular", "Helvetica Neue", Helvetica, Arial,
-      sans-serif !important;
+    font-family:
+      "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   }
   .pps-new-skin .pps-version2.pps-version3 .plan-boxes .gb-boxes li .price {
     padding: 4px 0;
@@ -20413,7 +20450,8 @@ footer
   color: #000;
   font-size: 12px;
   line-height: 18.5px;
-  font-family: "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 .subscribe_new.subscription_Vnew .account_info.subscription-flow-V2 span.check {
   width: 19px;
@@ -20454,7 +20492,8 @@ footer
   .paypal-tab
   span.text {
   display: none;
-  font-family: "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaRegular", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-size: 14px;
 }
 .subscribe_new.subscription_Vnew
@@ -20468,7 +20507,8 @@ footer
   .total-with-taxes-table
   h2 {
   margin-bottom: 0.2rem;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 .subscribe_new.subscription_Vnew
   .account_info.subscription-flow-V2.taxes-form-page-v2
@@ -20483,7 +20523,8 @@ footer
   .total-with-taxes-table
   .chosen-plan-wrap
   .selected-plan-v2 {
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 .subscribe_new.subscription_Vnew
   .account_info.subscription-flow-V2.taxes-form-page-v2
@@ -20497,7 +20538,8 @@ footer
   .promotion-message {
   color: #000 !important;
   font-size: 14px !important;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 @media screen and (min-width: 320px) and (max-width: 667px) {
   .subscribe_new.subscription_Vnew .account_info.subscription-flow-V2 {
@@ -20662,7 +20704,8 @@ footer .payment_v6 .account_info .refer-link-footer {
 .payment_v6 .account_info input[type="number"] {
   font-size: 0.88em;
   color: #000;
-  font-family: "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    "ProximaSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: none repeat scroll 0 0 #fff !important;
   border: 1px solid #8e8e8e;
   box-shadow: 0 1px 1px #fff inset;
@@ -20822,7 +20865,8 @@ html.sb-animation {
   text-decoration: none;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   border-radius: 3px;
-  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.6),
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.6),
     0 1px 0 rgba(255, 255, 255, 0.7) inset;
 }
 @media all and (min-width: 320px) and (max-width: 359px) {
@@ -24802,7 +24846,7 @@ footer
   height: 40px;
   top: 50%;
   position: absolute;
-  background: url("//pruzaniec.com/cdn/fonts/gb-slick-arrow-carousel.svg?14421400825907581912")
+  background: url("/cdn/fonts/gb-slick-arrow-carousel.svg?14421400825907581912")
     no-repeat;
   background-position: 17px;
   transform: translate(0, -50%) rotate(0deg);
