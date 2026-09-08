@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<html>
-<?php include("../../common/header.php"); ?>
-  <body>
 <!-- START -->
 <div class="p-11666">
 <div id="modalTest" class="fs-20" style="visibility:hidden;z-index:-1;">
@@ -915,5 +909,3 @@ window.onload = A.f.getStart;
   </div>
 </div>
 <!-- /#page -->
-  </body>
-</html>
